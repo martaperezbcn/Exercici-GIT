@@ -1,1 +1,2 @@
 text Exercici GIT
+text master modificado
