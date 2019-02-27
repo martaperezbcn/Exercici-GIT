@@ -1,2 +1,6 @@
 text Exercici GIT
+
 text master modificado
+
+text branch1
+
